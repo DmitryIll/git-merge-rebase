@@ -46,14 +46,14 @@ done
 
 ![alt text](image.png)
 
-
+![alt text](image-1.png)
 
 
 #### Подготовка файла merge.sh 
  
 **Шаг 1.** Создайте ветку `git-merge`. 
 
-
+![alt text](image-2.png)
 
 **Шаг 2**. Замените в ней содержимое файла `merge.sh` на:
 
